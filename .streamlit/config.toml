@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#9B7EBD"  # Muted lavender accent
+backgroundColor = "#e2e6ffff"  # Subtle dark blue-grey
+secondaryBackgroundColor = "#c0c7ffff"  # Slightly lighter blue-grey
+textColor = "#000000ff"  # Soft off-white with blue tint
+font = "sans serif"
+
+[server]
+headless = true
